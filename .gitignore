@@ -29,3 +29,10 @@ dashboard/.cache/
 .vscode/
 .idea/
 *.swp
+
+# Videos — too large for GitHub
+dashboard/public/videos/
+*.mp4
+*.avi
+*.mov
+*.mkv
