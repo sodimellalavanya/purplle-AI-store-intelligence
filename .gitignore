@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+*.pt
+*.onnx
+
+# Node
+node_modules/
+dashboard/dist/
+dashboard/.cache/
+
+# Env
+.env
+*.env
+
+# Docker
+*.log
+
+# Data
+*.mp4
+*.avi
+*.mov
+
+# IDE
+.vscode/
+.idea/
+*.swp
